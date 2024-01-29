@@ -3,7 +3,7 @@
 #include <UniversalTelegramBot.h>
 #include <ArduinoJson.h>
 
-#define BOT_TOKEN "6681100756:AAHRdaLOORGJEBF4vANEGaa-1o5u1gW_9Sc"
+#define BOT_TOKEN "..."
 //#define CHATID "6939401605"
 #define CHATID "-4125811031"  //group ID
 
