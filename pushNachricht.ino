@@ -4,8 +4,8 @@
 #include <ArduinoJson.h>
 
 #define BOT_TOKEN "..."
-//#define CHATID "6939401605"
-#define CHATID "-4125811031"  //group ID
+
+#define CHATID "..."  //group ID
 
 #define TELEGRAMTEXT "Hallo"
 
